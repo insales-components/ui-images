@@ -1,0 +1,13 @@
+{
+  "name": "UI-images",
+  "version": "1.0.0",
+  "description": "Стили для изображений",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/ui-images",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
